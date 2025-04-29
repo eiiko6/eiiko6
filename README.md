@@ -2,3 +2,7 @@
 <a href="https://github.com/eiiko6">
   <img src="https://github.com/eiiko6/eiiko6/blob/main/GyK2BG9.gif?raw=true" width="150"/>
 </a>
+
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiiko6&layout=compact&bg_color=0d1117&title_color=638cc6&text_color=d4d4d4&hide_border=true)
+</div>
